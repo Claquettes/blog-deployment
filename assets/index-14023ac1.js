@@ -13886,12 +13886,12 @@ function hy() {
     }),
   });
 }
-const py = "wptop1-62e69f70.png",
-  my = "wptwo-fc5c1e5c.png",
-  gy = "side-aaf5b3a0.png",
-  vy = "portrait-1ab754ec.png",
-  yy = "bikes2-6c03b1e5.png",
-  wy = "lamp-b0f10597.png";
+const py = "./wptop1-62e69f70.png",
+  my = "./wptwo-fc5c1e5c.png",
+  gy = "./side-aaf5b3a0.png",
+  vy = "./portrait-1ab754ec.png",
+  yy = "./bikes2-6c03b1e5.png",
+  wy = "./lamp-b0f10597.png";
 function Mc() {
   return v.jsx("div", {
     children: v.jsxs(fy, {
