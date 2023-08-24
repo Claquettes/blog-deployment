@@ -1,0 +1,2 @@
+En cas d'images qui ne chargent pas : path: "assets/file.png" dans le js
+  CORS : "./assets/file.css" ou "./assets/file.js"
